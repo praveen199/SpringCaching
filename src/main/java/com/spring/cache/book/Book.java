@@ -1,4 +1,4 @@
-package com.spring.cache;
+package com.spring.cache.book;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

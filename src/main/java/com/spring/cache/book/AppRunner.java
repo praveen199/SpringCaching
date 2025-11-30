@@ -1,4 +1,4 @@
-package com.spring.cache;
+package com.spring.cache.book;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
